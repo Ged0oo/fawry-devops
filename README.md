@@ -159,7 +159,7 @@ chmod +x mygrep.sh
 
 
 
-# Q1: Internal Web Dashboard Connectivity Troubleshooting Guide
+# Q2: Internal Web Dashboard Connectivity Troubleshooting Guide
 
 ## Comprehensive Troubleshooting Workflow
 
